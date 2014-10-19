@@ -3,8 +3,8 @@
 namespace System.Data.Entity.ModelConfiguration.Configuration
 {
     using System.ComponentModel;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.ModelConfiguration.Configuration.Types;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.Resources;

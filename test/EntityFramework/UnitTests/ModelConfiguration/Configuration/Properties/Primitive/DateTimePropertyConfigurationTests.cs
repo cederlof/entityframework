@@ -6,6 +6,7 @@ namespace System.Data.Entity.ModelConfiguration.Configuration.Properties.Primiti
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Mapping;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Resources;
     using System.Linq;
     using Xunit;

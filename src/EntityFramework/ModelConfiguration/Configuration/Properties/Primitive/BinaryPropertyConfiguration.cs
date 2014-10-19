@@ -48,7 +48,7 @@ namespace System.Data.Entity.ModelConfiguration.Configuration.Properties.Primiti
                 ConcurrencyMode = ConcurrencyMode ?? Core.Metadata.Edm.ConcurrencyMode.Fixed;
                 DatabaseGeneratedOption
                     = DatabaseGeneratedOption
-                      ?? ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Computed;
+                      ?? DataAnnotations.Schema.DatabaseGeneratedOption.Computed;
                 IsNullable = IsNullable ?? false;
                 MaxLength = MaxLength ?? 8;
             }

@@ -3,7 +3,7 @@
 namespace System.Data.Entity.TestHelpers
 {
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     public class IndexAttributeEqualityComparer : IEqualityComparer<IndexAttribute>
     {

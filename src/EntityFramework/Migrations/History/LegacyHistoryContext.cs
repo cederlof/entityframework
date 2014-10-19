@@ -2,8 +2,8 @@
 
 namespace System.Data.Entity.Migrations.History
 {
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Common;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     // <summary>
     // This is a version of the HistoryContext that still includes CreatedOn in its model.

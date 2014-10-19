@@ -7,6 +7,7 @@ namespace System.Data.Entity.Migrations.Infrastructure.FunctionsModel
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Mapping;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.TestHelpers;
     using System.Linq;

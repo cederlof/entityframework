@@ -3,6 +3,7 @@
 namespace System.Data.Entity.Query.LinqToEntities
 {
     using System.ComponentModel.DataAnnotations;
+    using System.Data.Entity.DataAnnotations;
     using System.Linq;
     using Xunit;    
 

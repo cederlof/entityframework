@@ -3,8 +3,8 @@
 namespace FunctionalTests
 {
     using System;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.ModelConfiguration.Conventions;
     using System.Linq;
     using System.Runtime.CompilerServices;

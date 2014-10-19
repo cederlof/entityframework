@@ -6,6 +6,7 @@ namespace System.Data.Entity.Migrations.Infrastructure
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Common.CommandTrees;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.Migrations.Infrastructure.FunctionsModel;
     using System.Data.Entity.Spatial;

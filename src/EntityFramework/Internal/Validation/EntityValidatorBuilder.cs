@@ -5,6 +5,7 @@ namespace System.Data.Entity.Internal.Validation
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations;
     using System.Data.Entity.ModelConfiguration.Utilities;
     using System.Data.Entity.Utilities;
     using System.Diagnostics;

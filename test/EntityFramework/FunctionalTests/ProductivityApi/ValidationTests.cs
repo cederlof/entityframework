@@ -6,6 +6,7 @@ namespace Microsoft.Data.CodeFirst.FunctionalTests.ProductivityApi.Validation
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.Data.Entity;
+    using System.Data.Entity.DataAnnotations;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.TestHelpers;
     using System.Data.Entity.Validation;

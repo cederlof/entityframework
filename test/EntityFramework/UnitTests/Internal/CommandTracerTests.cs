@@ -4,6 +4,7 @@ namespace System.Data.Entity.Internal
 {
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Common.CommandTrees;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Linq;
     using Xunit;
 

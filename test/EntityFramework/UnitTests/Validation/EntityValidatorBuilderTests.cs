@@ -6,6 +6,8 @@ namespace System.Data.Entity.Validation
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.Internal.Validation;
     using System.Data.Entity.Utilities;

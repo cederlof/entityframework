@@ -3,9 +3,9 @@
 namespace FunctionalTests
 {
     using System;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity;
     using System.Data.Entity.Core;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure.Annotations;
     using System.Data.Entity.TestHelpers;
     using Xunit;

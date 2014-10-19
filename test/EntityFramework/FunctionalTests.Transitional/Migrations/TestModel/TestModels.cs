@@ -4,7 +4,8 @@ namespace System.Data.Entity.Migrations
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
     using System.Data.SqlServerCe;
 

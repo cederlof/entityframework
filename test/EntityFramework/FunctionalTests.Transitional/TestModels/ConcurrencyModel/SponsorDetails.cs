@@ -2,7 +2,7 @@
 
 namespace ConcurrencyModel
 {
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     [ComplexType]
     public class SponsorDetails

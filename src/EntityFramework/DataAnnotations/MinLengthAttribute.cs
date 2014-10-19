@@ -3,8 +3,9 @@
 
 #if NET40
 
-namespace System.ComponentModel.DataAnnotations
+namespace System.Data.Entity.DataAnnotations
 {
+    using System.ComponentModel.DataAnnotations;
     using System.Data.Entity.Resources;
     using System.Diagnostics.CodeAnalysis;
     using System.Globalization;

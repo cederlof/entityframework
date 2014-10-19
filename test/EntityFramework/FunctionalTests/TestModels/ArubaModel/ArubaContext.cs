@@ -2,7 +2,7 @@
 
 namespace System.Data.Entity.TestModels.ArubaModel
 {
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure;
 
     public class ArubaContext : DbContext

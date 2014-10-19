@@ -7,11 +7,11 @@ namespace System.Data.Entity.Query
     using System.Data.Entity.Core.Common.CommandTrees.ExpressionBuilder;
     using System.Data.Entity.Core.EntityClient;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.SqlClient;
     using System.Linq;
     using Xunit;
     using System.Data.Entity.Core.Common.CommandTrees;
-    using System.ComponentModel.DataAnnotations.Schema;
 
     public class NullSemanticsTests : FunctionalTestBase
     {

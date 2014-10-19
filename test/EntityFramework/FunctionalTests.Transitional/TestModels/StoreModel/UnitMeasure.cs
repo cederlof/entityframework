@@ -3,6 +3,7 @@
 namespace FunctionalTests.Model
 {
     using System.ComponentModel.DataAnnotations;
+    using System.Data.Entity.DataAnnotations;
 
     public class UnitMeasure
     {

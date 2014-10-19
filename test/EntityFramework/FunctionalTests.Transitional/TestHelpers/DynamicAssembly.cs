@@ -4,8 +4,9 @@ namespace System.Data.Entity
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Core.Objects.DataClasses;
+    using System.Data.Entity.DataAnnotations;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Utilities;
     using System.Linq;
     using System.Reflection;

@@ -5,7 +5,7 @@ namespace FunctionalTests.Model
     using System;
     using System.Collections.Generic;
     using System.Collections.Specialized;
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     public class Employee
     {

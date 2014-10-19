@@ -3,7 +3,7 @@
 namespace System.Data.Entity.TestModels.FantasyModel
 {
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     // nested complex type
     [ComplexType]

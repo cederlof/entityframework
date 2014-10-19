@@ -1,13 +1,11 @@
 ﻿// Copyright (c) Microsoft Open Technologies, Inc. All rights reserved. See License.txt in the project root for license information.
 
-namespace System.ComponentModel.DataAnnotations.Schema
+namespace System.Data.Entity.DataAnnotations.Schema
 {
     using System.Data.Entity.Infrastructure.Annotations;
-    using System.Data.Entity.Resources;
     using System.Data.Entity.Utilities;
     using System.Diagnostics.CodeAnalysis;
     using System.Runtime.CompilerServices;
-    using System.Text;
 
     /// <summary>
     /// When this attribute is placed on a property it indicates that the database column to which the

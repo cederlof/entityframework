@@ -2,6 +2,7 @@
 
 namespace System.ComponentModel.DataAnnotations
 {
+    using System.Data.Entity.DataAnnotations;
     using System.Data.Entity.Resources;
     using Xunit;
 

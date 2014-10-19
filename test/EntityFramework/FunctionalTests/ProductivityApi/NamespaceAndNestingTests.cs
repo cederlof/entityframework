@@ -4,7 +4,6 @@ namespace ProductivityApiTests
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Common;
     using System.Data.Entity;
     using System.Data.Entity.Core.EntityClient;
@@ -12,6 +11,7 @@ namespace ProductivityApiTests
     using System.Data.Entity.Core.Metadata.Edm;
     using System.Data.Entity.Core.Objects;
     using System.Data.Entity.Core.Objects.DataClasses;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.Interception;
     using System.Data.Entity.TestHelpers;

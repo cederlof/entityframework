@@ -3,7 +3,7 @@
 
 #if NET40
 
-namespace System.ComponentModel.DataAnnotations.Schema
+namespace System.Data.Entity.DataAnnotations.Schema
 {
     using System.Diagnostics.CodeAnalysis;
 

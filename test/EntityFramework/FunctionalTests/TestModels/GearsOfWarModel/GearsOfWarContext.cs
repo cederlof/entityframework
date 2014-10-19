@@ -2,7 +2,7 @@
 
 namespace System.Data.Entity.TestModels.GearsOfWarModel
 {
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     /// <summary>
     /// Created for the purpose of update tests

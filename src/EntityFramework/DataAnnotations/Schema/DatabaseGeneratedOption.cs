@@ -3,7 +3,7 @@
 
 #if NET40
 
-namespace System.ComponentModel.DataAnnotations.Schema
+namespace System.Data.Entity.DataAnnotations.Schema
 {
     /// <summary>
     /// The pattern used to generate values for a property in the database.

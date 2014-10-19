@@ -4,10 +4,10 @@ namespace System.Data.Entity.Query
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Common;
     using System.Data.Entity.Core.EntityClient;
     using System.Data.Entity.Core.Metadata.Edm;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.TestHelpers;
     using System.Data.Entity.TestModels.ArubaModel;
     using System.Linq;

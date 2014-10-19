@@ -5,8 +5,8 @@ namespace ProductivityApiTests
     using System;
     using System.Collections;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.Functionals.Utilities;
     using System.Data.Entity.Infrastructure;
     using System.Data.Entity.TestHelpers;

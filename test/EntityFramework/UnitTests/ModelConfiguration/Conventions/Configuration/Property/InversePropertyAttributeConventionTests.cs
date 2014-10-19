@@ -4,6 +4,7 @@ namespace System.Data.Entity.ModelConfiguration.Conventions
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
     using System.Data.Entity.ModelConfiguration.Configuration;
     using System.Data.Entity.Resources;
     using System.Data.Entity.Utilities;

@@ -2,6 +2,7 @@
 
 namespace System.ComponentModel.DataAnnotations.Schema
 {
+    using System.Data.Entity.DataAnnotations.Schema;
     using Xunit;
 
     public class DatabaseGeneratedAttributeTests

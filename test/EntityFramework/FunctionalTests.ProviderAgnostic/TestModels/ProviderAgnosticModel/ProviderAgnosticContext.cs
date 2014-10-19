@@ -2,7 +2,7 @@
 
 namespace System.Data.Entity.TestModels.ProviderAgnosticModel
 {
-    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.DataAnnotations.Schema;
 
     public class ProviderAgnosticContext : DbContext
     {
